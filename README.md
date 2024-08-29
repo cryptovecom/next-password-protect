@@ -3,21 +3,6 @@
     <img src="https://avatars.githubusercontent.com/u/93975473" alt="Instant Commerce" width="100">
   </a>
   <h1 align="center">next-password-protect</h1>
-  <p align="center">
-    <a aria-label="releases" href="https://github.com/instantcommerce/next-password-protect/releases/" target="_blank">
-      <img src="https://github.com/instantcommerce/next-password-protect/workflows/Release/badge.svg">
-    </a>
-    <a aria-label="npm" href="https://www.npmjs.com/package/next-password-protect" target="_blank">
-      <img src="https://img.shields.io/npm/v/next-password-protect">
-    </a>
-    <a aria-label="codecov" href="https://codecov.io/gh/instantcommerce/next-password-protect" target="_blank">
-      <img src="https://codecov.io/gh/instantcommerce/next-password-protect/branch/master/graph/badge.svg?token=ZV0YT4HU5H">
-    </a>
-    <a aria-label="stars" href="https://github.com/instantcommerce/next-password-protect/stargazers/" target="_blank">
-      <img src="https://img.shields.io/github/stars/instantcommerce/next-password-protect.svg?style=social&label=Star&maxAge=86400" />
-    </a>
-  </p>
-  <p align="center">Password protect your Next.js deployments. <a href="http://next-password-protect.vercel.app/" target="_blank">View demo</a> (Password is <b>secret</b>)</p>
 </p>
 
 ---
