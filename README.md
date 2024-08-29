@@ -1,5 +1,5 @@
 <p align="center">
-  <a aria-label="Instant Commerce logo" href="https://instantcommerce.io/" target="_blank" align="center">
+  <a aria-label="Instant Commerce logo" href="" target="_blank" align="center">
     <img src="https://avatars.githubusercontent.com/u/93975473" alt="Instant Commerce" width="100">
   </a>
   <h1 align="center">next-password-protect</h1>
